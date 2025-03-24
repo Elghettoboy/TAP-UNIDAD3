@@ -1,0 +1,5 @@
+primer paso: tener q analizar las entidades en este caso seria pais que representan una informacion basica y ciudad que representa las ciudad que pertenece un pais, se relaciona en uno a muchos ya que un pais puede tener muchas entidades.
+segundo paso: diseño de las tablas que sera tabla pais que esto llevará el ID del país que es una clave primaria como segundo tendrá el nombre del país y su población que contiene el país. Después era la tabla ciudad que tendrá el nombre de la ciudad y la población de esa ciudad.
+paso tres: Para este paso sería la creación de la base de datos y las tablas tenemos como primero crear la tabla de base de datos que sería con el comando créate database y después de ahí crear la tabla de país y ciudad
+paso cuatro:En este paso es insertar los datos a la tabla primero se tiene que insertar los datos en la tabla país con el comando insert into país () Y después hacer lo mismo con la tabla ciudad
+paso cinco: Para el paso cinco sería hacer las consultas para verificar los datos primeramente, verificando los datos de país y ciudad con el comando select * from y ya sea ciudad o país
